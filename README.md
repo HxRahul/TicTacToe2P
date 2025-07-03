@@ -1,7 +1,28 @@
-Hey my name is Rahul and this is my first little game I made using the basics of Python3. Its a basic 2 player tic tac toe using the console. I hope to continue learning python and make more complicated projects!
+Tic Tac Toe – Python Console Game
 
-In the future I may revsit this project and:
-  - add a UI that is clean and doesnt use the console as an output and input
-  - add a way to play against a random bot
-  - add a way to use AI to play against you (far in the future when I learn how to implement AI)
+A simple two-player Tic Tac Toe game built with Python. The game runs in the terminal and uses a classic 3×3 grid with numbered positions. Players take turns entering their moves, and the program handles board updates, win/draw detection, and input validation.
 
+---
+
+Features
+
+-  Turn-based two-player gameplay  
+- Numbered grid for intuitive user input  
+-  Input validation to prevent invalid or repeated moves  
+-  Win and draw condition checks  
+-  Clean and formatted board display in the console  
+
+---
+
+Technologies Used
+
+- `Python 3`
+- Core concepts: `Functions`, `Loops`, `Lists`, `Conditionals`, `Input/Output`, `String Formatting`
+
+---
+Future Improvements (Once I learn how to)
+
+ -Add replay functionality
+ -Add a basic AI opponent (or random bot)
+ -Convert to a GUI 
+ -Build a web version 
